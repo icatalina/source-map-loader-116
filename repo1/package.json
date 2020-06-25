@@ -1,0 +1,19 @@
+{
+  "name": "repo1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/main.js",
+  "scripts": {
+    "start": "webpack -c webpack.config.js"
+  },
+  "keywords": [],
+  "author": "bc",
+  "license": "ISC",
+  "dependencies": {
+    "source-map-loader": "^1.0.0",
+    "webpack": "^4.43.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.12"
+  }
+}
